@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Amit Prakash</h1>
-<h3 align="center">A curious student of Engineering with 8+ years of experience in Enterprise Software Development .</h3>
+<h3 align="center">A curious student of Engineering with 8+ years of experience in Enterprise Software Research & Development (B2B, B2C).</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://creativelogo.in/wp-content/uploads/2020/01/1-1.gif"> -->
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Coding" width="400"/> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamitprakash&label=Profile%20views&color=0e75b6&style=flat" alt="iamitprakash" /> 
   <br><br>
   
-- 🔭 I’m currently working on **React, Next, Typescript, NodeJs, Kotlin**
+- 🔭 I’m currently working on **GO, .Net, Typescript, NodeJs, SQL**
 
-- 🌱 I’m currently learning **AWS, DSA, React Native, EmberJS**
+- 🌱 I’m currently learning **so many things coming in my way to make great scalable product**
 
-- 💬 Ask me about **Web Development & Mobile Development** 
+- 💬 Ask me about **How to solve Business Problem via Code** 
 
-- 📫 How to reach me  **iamitprakash@gmail.com**
+- 📫 How to reach me  **amitbcet2k15@gmail.com**
 
   </p>
 
