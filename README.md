@@ -23,7 +23,7 @@
 <a href="https://twitter.com/twts_tejas" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
 </p>
 
-<a href="https://app.daily.dev/amitprakash"><img src="https://api.daily.dev/devcards/602a61fc19eb4273ad137c4369c45ee5.png?r=per" width="400" alt="Amit Prakash's Dev Card"/></a>
+<a href="https://app.daily.dev/amitprakash"><img src="https://api.daily.dev/devcards/602a61fc19eb4273ad137c4369c45ee5.png?r=hgm" width="400" alt="Amit Prakash's Dev Card"/></a>
 ## Languages and Tools:
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
