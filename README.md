@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **How to solve Business Problem via Code** 
 
-- 📫 How to reach me  **amitbcet2k15@gmail.com**
+- 📫 How to reach me  **https://amitprakash.me**
 
   </p>
 
