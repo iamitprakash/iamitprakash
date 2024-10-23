@@ -65,7 +65,8 @@
 <!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-buymeacoffee.com/amitprakash
+![bmc_qr](https://github.com/user-attachments/assets/391894c5-3b05-4ffc-b0bd-9a2edc2000e0)
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamitprakash&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
