@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Prakash</h1>
+
+[![committers.top badge](https://user-badge.committers.top/india_private/USERNAME.svg)](https://user-badge.committers.top/india_private/iamitprakash)
 <h3 align="center">A curious student of Engineering with 8+ years of experience in Enterprise Software Research & Development (B2B, B2C).</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://creativelogo.in/wp-content/uploads/2020/01/1-1.gif"> -->
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Coding" width="400"/> 
