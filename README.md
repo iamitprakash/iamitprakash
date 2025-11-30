@@ -1,78 +1,163 @@
-<h1 align="center">Hi 👋, I'm Amit Prakash</h1>
+<h1 align="center">Hi, I'm Amit Prakash 👨‍💻</h1>
+<h3 align="center">Senior Software Engineer | Cloud-Native Specialist | 3× Patent Inventor | Go & .NET</h3>
 
-<h3 align="center">A curious student of Engineering with 8+ years of experience in Enterprise Software Research & Development (B2B, B2C).</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://creativelogo.in/wp-content/uploads/2020/01/1-1.gif"> -->
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Coding" width="400"/> 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamitprakash&label=Profile%20views&color=0e75b6&style=flat" alt="iamitprakash" /> 
-  <br><br>
-  
-- 🔭 I’m currently working on **GO, .Net, Typescript, NodeJs, SQL**
-
-- 🌱 I’m currently learning **so many things coming in my way to make great scalable product**
-
-- 💬 Ask me about **How to solve Business Problem via Code** 
-
-- 📫 How to reach me  **https://amitprakash.me**
-
-  </p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dev-amit-prakash/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100"></a>
-<a href="https://twitter.com/twts_tejas" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
+<p align="center">
+  <a href="mailto:amitbcet2k15@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/dev-amit-prakash">LinkedIn</a> •
+  <a href="https://github.com/iamitprakash">GitHub</a>
 </p>
 
-<a href="https://app.daily.dev/amitprakash"><img src="https://api.daily.dev/devcards/602a61fc19eb4273ad137c4369c45ee5.png?r=hgm" width="400" alt="Amit Prakash's Dev Card"/></a>
-## Languages and Tools:
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="40" alt="fsharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-  
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100"> 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
-</div>
-<br><br> 
+---
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+## 🚀 About Me
 
+I build **distributed systems**, **cloud-native microservices**, and **secure backend architectures** that run at scale.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamitprakash&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+With **10+ years** in engineering across **Boeing**, **EY**, **Siemens**, and **HCL**, I’ve designed high-performance systems using  
+**Go**, **.NET Core**, **gRPC**, **Kubernetes**, **Azure**, **AWS**, and **Kafka**, while contributing to  
+**3 granted patents** and **1 pending** in cloud security & distributed computing.
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+I’m obsessed with:
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+- High-performance APIs  
+- Distributed systems & event-driven architectures  
+- Authentication & cloud security  
+- Observability, tracing, and debugging large systems  
+- Designing systems that don't fall over under heavy load  
+
+---
+
+## 🧠 Tech Stack
+
+### **Languages**
+`Go` • `C#` • `TypeScript` • `Python`
+
+### **Backend / Architecture**
+`Microservices` • `gRPC` • `REST` • `CQRS` • `Pub/Sub`  
+`Distributed Systems` • `Event-Driven Workloads` • `Multi-Tenant Design`
+
+### **Cloud & DevOps**
+`Kubernetes (AKS/EKS)` • `Docker` • `Azure` • `AWS`  
+`Terraform` • `GitHub Actions` • `Azure DevOps`  
+`CI/CD` • `Service Mesh` • `Prometheus & Grafana`
+
+### **Security**
+`OAuth2` • `OpenID` • `JWT` • `TLS 1.2/1.3`  
+`Cryptography` • `PAM (Privileged Access Management)`
+
+### **Databases & Messaging**
+`PostgreSQL` • `SQL Server` • `Redis`  
+`Kafka` • `RabbitMQ` • `Azure Service Bus`
+
+---
+
+## 🏢 Experience
+
+### **🔹 Senior Software Engineer — The Boeing Company (2022–Present)**  
+- Architected **Go + gRPC** distributed microservices, improving API throughput by **45%**  
+- Designed & deployed high-scale workloads on **AKS/EKS**  
+- Developed cloud security middleware using **JWT/OAuth2** (patent-pending)  
+- Modernized critical .NET systems into Go-based services (cut latency by **40%**)  
+- Automated GitHub Actions + Azure DevOps pipelines for zero-downtime releases  
+
+---
+
+### **🔹 Software Engineer II — Ernst & Young (2021–2022)**  
+- Built event-driven microservices with **Go**, **Kafka**, and **gRPC**  
+- Implemented real-time observability using Prometheus & Grafana  
+- Integrated enterprise-grade SSO (OAuth2 / OpenID)  
+- Mentored junior engineers on Go concurrency & secure API practices  
+
+---
+
+### **🔹 Software Developer — Siemens (2018–2021)**  
+- Built Go-based IoT gateways and telemetry systems  
+- Implemented ETL & analytics using Azure Data Lake  
+- Designed REST APIs for device provisioning & live telemetry  
+
+---
+
+### **🔹 Software Developer — HCL Technologies (2015–2018)**  
+- Built secure fintech transaction systems  
+- Integrated cryptographic standards (SHA256, TLS 1.3)  
+- Improved queue-based processing (RabbitMQ) by **20%**  
+
+---
+
+## 🏆 Patents
+
+**3 Granted | 1 Pending | 2 Innovation Disclosures**
+
+Areas include:  
+- Distributed computing  
+- Authentication frameworks  
+- Secure cloud-native systems  
+- Fault tolerance & resilience engineering  
+
+---
+
+## 🔧 Notable Projects
+
+### **⚡ Nimbus — Go Microservices Platform**  
+- Orchestrates 50+ microservices in Kubernetes  
+- Built custom retry, circuit-breaker, timeout & HA patterns  
+
+### **🔐 CloudLock — Multi-Tenant Authentication Framework**  
+- Patent-backed distributed authentication  
+- Designed for multi-region cloud-native systems  
+
+### **🛰️ Location Intelligence — Real-time Tracking**  
+- Reduced operational errors by **20%**  
+- Built high-speed event processing pipelines  
+
+### **⚙️ Telemetry Hub — Observability Engine**  
+- Custom Go-based Prometheus exporter  
+- Increased debugging efficiency by **35%**  
+
+---
+
+## 🧩 Certifications
+- **AZ-900**  
+- **AI-900**  
+- **SC-900**  
+- **DP-900**  
+- **Databricks Developer**  
+- **CKA (In Progress)**  
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamitprakash&show_icons=true&theme=algolia" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamitprakash&theme=algolia" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamitprakash&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 Contribution 
 
 [Amit Prakash GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamitprakash&theme=tokyonight&theme=icegray&border_radius=8)
+
+---
+
+## 💬 Interests
+
+- Marathon Running 🏃  
+- Cloud Security Experiments 🔐  
+- Open Source Contributions 🌐  
+- Sci-Fi & Space Exploration 🚀  
+
+---
+
+## 🤝 Let’s Connect
+
+If you're building something **high-scale, low-latency, or security-critical**, I’d love to discuss & collaborate.
