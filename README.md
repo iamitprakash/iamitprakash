@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Engineer | Cloud-Native Specialist | 3× Patent Inventor | Go & .NET</h3>
 
 <p align="center">
-  <a href="mailto:amitbcet2k15@gmail.com">Email</a> •
+  <a href="mailto:dev.amitprakash@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/dev-amit-prakash">LinkedIn</a> •
   <a href="https://github.com/iamitprakash">GitHub</a>
 </p>
