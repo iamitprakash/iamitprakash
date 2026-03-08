@@ -1,203 +1,223 @@
 # Amit Prakash
 
-Senior Backend Engineer focused on **distributed systems, data pipelines, and database-heavy platforms**.
+Senior Backend Engineer focused on **distributed systems, data platforms, and cloud-native architectures**.
 
-I enjoy building systems that move and process data reliably at scale. Most of my work lives close to the **data layer — databases, event streams, and backend services**.
+I enjoy building systems that move and process data reliably at scale — especially **database-heavy systems, event-driven architectures, and backend platforms**.
 
-Currently exploring deeper work in **system architecture, streaming platforms, and developer tooling powered by AI.**
+Currently exploring deeper work in:
+
+- distributed systems architecture
+- streaming data platforms
+- database internals
+- AI-powered developer tooling
 
 ---
 
-## Engineering Philosophy
+# About Me
 
-Good systems are:
+- Senior Backend Engineer
+- Experience working on **large enterprise platforms**
+- Strong focus on **backend reliability and distributed systems**
+- Passionate about **database architecture and event-driven systems**
+
+Industry experience includes working on systems used in:
+
+- aerospace
+- enterprise platforms
+- cloud-native services
+
+---
+
+# Engineering Philosophy
+
+I believe good systems should be:
 
 - **Simple before clever**
 - **Observable before scalable**
 - **Reliable before fast**
 
-I believe strong backend systems come from understanding **data flow, failure modes, and operational behavior**, not just writing services.
+The best backend systems come from understanding:
 
-The problems I enjoy most involve:
-
-- moving large volumes of data  
-- designing event-driven architectures  
-- building reliable backend services  
-- exploring database internals  
+- data flow
+- failure modes
+- system behavior under load
 
 ---
 
-## What I Work On
+# Core Engineering Areas
 
-My work generally sits around **backend platforms and data movement systems**.
+My engineering work typically focuses on:
 
-Typical architecture problems I work on include:
-
-- **Event-driven microservices**
-- **Change Data Capture pipelines**
-- **Streaming data systems**
-- **Backend service design**
-- **Database performance tuning**
+- distributed backend services
+- streaming data pipelines
+- event-driven architectures
+- database performance
+- scalable system design
 
 ---
 
-## Current Projects
+# Featured Projects
 
-### Text-to-SQL Engine
+## Event-Driven Architecture Playground
 
-Natural language interface for relational databases.
+Distributed microservices system demonstrating patterns such as:
 
-**Goal**
+- event sourcing
+- saga pattern
+- idempotent consumers
+- message retries
 
-Allow users to ask questions in plain English and automatically generate safe SQL queries.
+Tech
 
-**Stack**
-
-- .NET
-- PostgreSQL
-- SQLCoder (self-hosted LLM)
-- Prompt engineering
-- Query validation layer
-
-**Focus areas**
-
-- schema reasoning
-- query safety
-- AI-assisted developer tooling
+```
+.NET
+Kafka / RabbitMQ
+PostgreSQL
+Docker
+```
 
 ---
 
-### Change Data Capture Streaming Platform
+## CDC Streaming Pipeline
 
-Real-time data pipeline for propagating database changes across services.
+Real-time data movement pipeline.
 
-**Architecture**
+Architecture
 
 ```
 SQL Server
    │
-   │  CDC
+CDC
    ▼
-Debezium / Kafka
-   │
+Debezium
    ▼
-Streaming consumers (.NET)
-   │
+Kafka
    ▼
-CosmosDB / downstream services
+.NET Consumer
+   ▼
+CosmosDB
 ```
 
-**Engineering challenges**
+Focus areas
 
-- idempotent event processing
+- exactly-once processing
 - schema evolution
-- exactly-once semantics
-- high throughput ingestion
+- event replay
 
 ---
 
-### Anonymous Feedback Platform
+## Text-to-SQL Engine
 
-Backend infrastructure for collecting anonymous feedback safely.
+Natural language interface for relational databases.
 
-**Goals**
+Architecture
 
-- protect user anonymity
-- prevent abuse
-- design scalable backend APIs
+```
+User Query
+     │
+     ▼
+LLM (SQLCoder)
+     │
+     ▼
+Query Validation Layer
+     │
+     ▼
+PostgreSQL
+```
 
-**Stack**
+Focus
 
-- .NET backend
-- cloud storage
-- secure submission pipeline
+- schema reasoning
+- safe query generation
+- AI-assisted data access
 
 ---
 
-## Technology Stack
+# Tech Stack
 
 ### Languages
 
 - C#
+- Go
 - SQL
 - JavaScript
+- Python
 
 ### Backend
 
 - .NET
 - ASP.NET Core
-- Background workers
-- Dependency Injection
+- gRPC
+- background services
 
 ### Databases
 
 - SQL Server
 - PostgreSQL
 - DynamoDB
-- Cosmos DB
+- CosmosDB
+- Redis
 
 ### Streaming
 
 - Kafka
 - RabbitMQ
 - Debezium
-- SQL Server CDC
+- Change Data Capture
 
-### Cloud / Infrastructure
+### Cloud / Infra
 
 - AWS
 - Docker
+- Kubernetes
 
 ---
 
-## Areas I Like Exploring
+# Patents
+
+I have contributed to several patented innovations related to **distributed systems and cloud security**.
+
+- 3 granted patents
+- 1 patent pending
+
+---
+
+# Areas I Enjoy Exploring
 
 - distributed systems design
+- event streaming architectures
 - database internals
-- streaming architectures
 - backend reliability
-- data consistency models
-- developer tooling
+- system scalability
+- developer productivity tools
 
 ---
 
-## Writing
+# GitHub Stats
 
-Occasionally writing about:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamitprakash&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamitprakash&layout=compact)
+
+---
+
+# Writing
+
+I enjoy writing about:
 
 - backend engineering
-- database architecture
 - system design
-- engineering deep dives
+- database architecture
+- distributed systems
 
 ---
 
-## Current Direction
-
-Long-term I want to focus on **architecture-level backend systems**, designing platforms that power **data-intensive applications**.
-
-Particularly interested in solving engineering problems in:
-
-- fintech
-- aerospace
-- large-scale product platforms
-
----
-
-## Fun Engineering Question
-
-A problem I often think about:
+# Engineering Question I Often Think About
 
 > What is the simplest architecture that can reliably move data between systems without losing consistency?
 
 ---
 
-## Connect
+# Connect
 
-If you enjoy discussing **backend architecture, databases, or distributed systems**, feel free to connect.
-
----
-
-## Engineering Motto
-
-> “Data is the system. Everything else is just transport.”
+If you enjoy discussing **backend architecture, distributed systems, or databases**, feel free to connect.
