@@ -1,157 +1,203 @@
-<h1 align="center">Hi, I'm Amit Prakash 👨‍💻</h1>
-<h3 align="center">Senior Software Engineer | Cloud-Native Specialist | 3× Patent Inventor | Go & .NET</h3>
+# Amit Prakash
 
-<p align="center">
-  <a href="mailto:dev.amitprakash@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/dev-amit-prakash">LinkedIn</a> •
-  <a href="https://github.com/iamitprakash">GitHub</a>
-</p>
+Senior Backend Engineer focused on **distributed systems, data pipelines, and database-heavy platforms**.
 
----
+I enjoy building systems that move and process data reliably at scale. Most of my work lives close to the **data layer — databases, event streams, and backend services**.
 
-## 🚀 About Me
-
-I build **distributed systems**, **cloud-native microservices**, and **secure backend architectures** that run at scale.
-
-With **10+ years** in engineering across **Boeing**, **EY**, **Siemens**, and **HCL**, I’ve designed high-performance systems using  
-**Go**, **.NET Core**, **gRPC**, **Kubernetes**, **Azure**, **AWS**, and **Kafka**, while contributing to  
-**3 granted patents** and **1 pending** in cloud security & distributed computing.
-
-I’m obsessed with:
-
-- High-performance APIs  
-- Distributed systems & event-driven architectures  
-- Authentication & cloud security  
-- Observability, tracing, and debugging large systems  
-- Designing systems that don't fall over under heavy load  
+Currently exploring deeper work in **system architecture, streaming platforms, and developer tooling powered by AI.**
 
 ---
 
-## 🧠 Tech Stack
+## Engineering Philosophy
 
-### **Languages**
-`Go` • `C#` • `TypeScript` • `Python`
+Good systems are:
 
-### **Backend / Architecture**
-`Microservices` • `gRPC` • `REST` • `CQRS` • `Pub/Sub`  
-`Distributed Systems` • `Event-Driven Workloads` • `Multi-Tenant Design`
+- **Simple before clever**
+- **Observable before scalable**
+- **Reliable before fast**
 
-### **Cloud & DevOps**
-`Kubernetes (AKS/EKS)` • `Docker` • `Azure` • `AWS`  
-`Terraform` • `GitHub Actions` • `Azure DevOps`  
-`CI/CD` • `Service Mesh` • `Prometheus & Grafana`
+I believe strong backend systems come from understanding **data flow, failure modes, and operational behavior**, not just writing services.
 
-### **Security**
-`OAuth2` • `OpenID` • `JWT` • `TLS 1.2/1.3`  
-`Cryptography` • `PAM (Privileged Access Management)`
+The problems I enjoy most involve:
 
-### **Databases & Messaging**
-`PostgreSQL` • `SQL Server` • `Redis`  
-`Kafka` • `RabbitMQ` • `Azure Service Bus`
+- moving large volumes of data  
+- designing event-driven architectures  
+- building reliable backend services  
+- exploring database internals  
 
 ---
 
-## 🏢 Experience
+## What I Work On
 
-### **🔹 Senior Software Engineer — The Boeing Company (2022–Present)**  
-- Architected **Go + gRPC** distributed microservices, improving API throughput by **45%**  
-- Designed & deployed high-scale workloads on **AKS/EKS**  
-- Developed cloud security middleware using **JWT/OAuth2** (patent-pending)  
-- Modernized critical .NET systems into Go-based services (cut latency by **40%**)  
-- Automated GitHub Actions + Azure DevOps pipelines for zero-downtime releases  
+My work generally sits around **backend platforms and data movement systems**.
 
----
+Typical architecture problems I work on include:
 
-### **🔹 Software Engineer II — Ernst & Young (2021–2022)**  
-- Built event-driven microservices with **Go**, **Kafka**, and **gRPC**  
-- Implemented real-time observability using Prometheus & Grafana  
-- Integrated enterprise-grade SSO (OAuth2 / OpenID)  
-- Mentored junior engineers on Go concurrency & secure API practices  
+- **Event-driven microservices**
+- **Change Data Capture pipelines**
+- **Streaming data systems**
+- **Backend service design**
+- **Database performance tuning**
 
 ---
 
-### **🔹 Software Developer — Siemens (2018–2021)**  
-- Built Go-based IoT gateways and telemetry systems  
-- Implemented ETL & analytics using Azure Data Lake  
-- Designed REST APIs for device provisioning & live telemetry  
+## Current Projects
+
+### Text-to-SQL Engine
+
+Natural language interface for relational databases.
+
+**Goal**
+
+Allow users to ask questions in plain English and automatically generate safe SQL queries.
+
+**Stack**
+
+- .NET
+- PostgreSQL
+- SQLCoder (self-hosted LLM)
+- Prompt engineering
+- Query validation layer
+
+**Focus areas**
+
+- schema reasoning
+- query safety
+- AI-assisted developer tooling
 
 ---
 
-### **🔹 Software Developer — HCL Technologies (2015–2018)**  
-- Built secure fintech transaction systems  
-- Integrated cryptographic standards (SHA256, TLS 1.3)  
-- Improved queue-based processing (RabbitMQ) by **20%**  
+### Change Data Capture Streaming Platform
+
+Real-time data pipeline for propagating database changes across services.
+
+**Architecture**
+
+```
+SQL Server
+   │
+   │  CDC
+   ▼
+Debezium / Kafka
+   │
+   ▼
+Streaming consumers (.NET)
+   │
+   ▼
+CosmosDB / downstream services
+```
+
+**Engineering challenges**
+
+- idempotent event processing
+- schema evolution
+- exactly-once semantics
+- high throughput ingestion
 
 ---
 
-## 🏆 Patents
+### Anonymous Feedback Platform
 
-**3 Granted | 1 Pending | 2 Innovation Disclosures**
+Backend infrastructure for collecting anonymous feedback safely.
 
-Areas include:  
-- Distributed computing  
-- Authentication frameworks  
-- Secure cloud-native systems  
-- Fault tolerance & resilience engineering  
+**Goals**
 
----
+- protect user anonymity
+- prevent abuse
+- design scalable backend APIs
 
-## 🔧 Notable Projects
+**Stack**
 
-### **⚡ Nimbus — Go Microservices Platform**  
-- Orchestrates 50+ microservices in Kubernetes  
-- Built custom retry, circuit-breaker, timeout & HA patterns  
-
-### **🔐 CloudLock — Multi-Tenant Authentication Framework**  
-- Patent-backed distributed authentication  
-- Designed for multi-region cloud-native systems  
-
-### **🛰️ Location Intelligence — Real-time Tracking**  
-- Reduced operational errors by **20%**  
-- Built high-speed event processing pipelines  
-
-### **⚙️ Telemetry Hub — Observability Engine**  
-- Custom Go-based Prometheus exporter  
-- Increased debugging efficiency by **35%**  
+- .NET backend
+- cloud storage
+- secure submission pipeline
 
 ---
 
-## 🧩 Certifications
-- **AZ-900**  
-- **AI-900**  
-- **SC-900**  
-- **DP-900**  
-- **Databricks Developer**  
-- **CKA (In Progress)**  
+## Technology Stack
+
+### Languages
+
+- C#
+- SQL
+- JavaScript
+
+### Backend
+
+- .NET
+- ASP.NET Core
+- Background workers
+- Dependency Injection
+
+### Databases
+
+- SQL Server
+- PostgreSQL
+- DynamoDB
+- Cosmos DB
+
+### Streaming
+
+- Kafka
+- RabbitMQ
+- Debezium
+- SQL Server CDC
+
+### Cloud / Infrastructure
+
+- AWS
+- Docker
 
 ---
 
-## 🔥 GitHub Stats
+## Areas I Like Exploring
 
-<p align="center">
- 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamitprakash&theme=algolia" />
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamitprakash&theme=react-dark&hide_border=true&area=true" />
-</p>
+- distributed systems design
+- database internals
+- streaming architectures
+- backend reliability
+- data consistency models
+- developer tooling
 
 ---
 
-## 💬 Interests
+## Writing
 
-- Marathon Running 🏃  
-- Cloud Security Experiments 🔐  
-- Open Source Contributions 🌐  
-- Sci-Fi & Space Exploration 🚀  
+Occasionally writing about:
+
+- backend engineering
+- database architecture
+- system design
+- engineering deep dives
 
 ---
 
-## 🤝 Let’s Connect
+## Current Direction
 
-If you're building something **high-scale, low-latency, or security-critical**, I’d love to discuss & collaborate.
+Long-term I want to focus on **architecture-level backend systems**, designing platforms that power **data-intensive applications**.
+
+Particularly interested in solving engineering problems in:
+
+- fintech
+- aerospace
+- large-scale product platforms
+
+---
+
+## Fun Engineering Question
+
+A problem I often think about:
+
+> What is the simplest architecture that can reliably move data between systems without losing consistency?
+
+---
+
+## Connect
+
+If you enjoy discussing **backend architecture, databases, or distributed systems**, feel free to connect.
+
+---
+
+## Engineering Motto
+
+> “Data is the system. Everything else is just transport.”
