@@ -193,13 +193,6 @@ I have contributed to several patented innovations related to **distributed syst
 
 ---
 
-# GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamitprakash&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamitprakash&layout=compact)
-
----
 
 # Writing
 
